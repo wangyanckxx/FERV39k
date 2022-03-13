@@ -89,7 +89,7 @@ I'll not sell any part of this database or make any profit from its use.
 ```
 @inproceedings{wang2022ferv39k,
 title={FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos},
-author={Yan, Wang and Yuxuan, Sun and Yiwen, Huang and Zhongying, Liu and Shuyong, Gao and Weifeng, Ge and Wenqiang, Zhang and Wei, Zhang},
+author={Yan Wang, Yixuan Sun, Yiwen Huang, Zhongying Liu, Shuyong Gao, Wei Zhang, Weifeng Ge, Wenqiang Zhang},
 booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 year={2022}
 }
