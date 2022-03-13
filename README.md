@@ -1,6 +1,6 @@
 # FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos
 
-### [Project Page](https://kgbmax.github.io/) | [Videos](https://space.bilibili.com/401742377) | [Paper](https://space.bilibili.com/401742377)
+### [Project Page](https://yxsunmadmax.github.io/) | [Videos](#) | [Paper](#)
 
 [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://space.bilibili.com/401742377) <br>
  [Yan Wang](https://wangyanckxx.github.io/) <sup>1</sup>,
@@ -50,9 +50,33 @@
 | RS50-LSTM      | ResNet50 | DFEW        | FERV39k    | 41.XX/29.XX | [FERV39k-train-R50-LSTM-DFEW](https://space.bilibili.com/401742377) | [FERV39k-val-LSTM-DFEW](https://space.bilibili.com/401742377) | 57M             |
 
 
-#### Notes
+## Terms & Conditions
+- The dataset is available for non-commercial research purposes only.
+- All images of the dataset are obtained from the Internet and some papers which are not property of Digital Ocean Laboratory (DOL), Shanghai Ocean University. The DOL is not responsible for the content nor the meaning of these images.
+- You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+- You agree not to further copy, publish or distribute any portion of the DOL. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+- The SOL reserves the right to terminate your access to the DOL at any time.
 
-- XXX
+## How to get the Password
+
+This database is publicly available. It is free for professors and researcher scientists affiliated to a University.
+Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed:
+Send an e-mail to Yan Wang (yanwang19@fudan.edu.cn) or Yixuan Sun (21210860014@m.fudan.edu.cn) before downloading the database. You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
+```
+1. Subject: (DOL) Application to download the DOL Dataset          
+2. Name: <your first and last name>
+3. Affiliation: <University where you work>
+4. Department: <your department>
+5. Position: <your job title>
+6. Email: <must be the email at the above mentioned institution>
+
+I have read and agree to the terms and conditions specified in the RAF face database webpage. 
+This database will only be used for research purposes. 
+I will not make any part of this database available to a third party. 
+I'll not sell any part of this database or make any profit from its use.
+```
+
+ 
 
 ## Citation
 
