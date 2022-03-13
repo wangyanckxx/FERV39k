@@ -61,7 +61,7 @@
 
 This dataset is publicly available. It is free for professors and researcher scientists affiliated to a University.
 1. Baidu Drive:
-* (FERV39k) Download Link(链接): 链接：https://pan.baidu.com/s/1TYu41txbDUt-WJzwWc7EPQ  
+* (FERV39k) Download Link(链接): https://pan.baidu.com/s/1TYu41txbDUt-WJzwWc7EPQ  
 * Extract Code(提取码)： wang
 2. Google Drive:
 * Download Link (FERV39k) : https://drive.google.com/drive/folders/1Syx08oLhjgfQon5pmKT0DKct_7T2F6hq?usp=sharing 
