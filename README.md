@@ -22,7 +22,7 @@
 
 - 03/2022: The Paper [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://space.bilibili.com/401742377) is accepted by CVPR 2022.
 
-## Model Zoo
+<!-- ## Model Zoo
 
 <center>
 
@@ -48,27 +48,28 @@
 | RS18-LSTM      | ResNet18 | DFEW        | FERV39k    | 41.XX/29.XX | [FERV39k-train-R18-LSTM-DFEW](https://space.bilibili.com/401742377) | [FERV39k-val-LSTM-DFEW](https://space.bilibili.com/401742377) | 132M            |
 | RS50-LSTM      | ResNet50 | MS-Celeb-1M | FERV39k    | 46.XX/34.XX | [FERV39k-train-R50-LSTM-MS-Celeb-1M](https://space.bilibili.com/401742377) | [FERV39k-val-LSTM-MS-Celeb-1M](https://space.bilibili.com/401742377) | 57M             |
 | RS50-LSTM      | ResNet50 | DFEW        | FERV39k    | 41.XX/29.XX | [FERV39k-train-R50-LSTM-DFEW](https://space.bilibili.com/401742377) | [FERV39k-val-LSTM-DFEW](https://space.bilibili.com/401742377) | 57M             |
-
+ -->
 
 ## Terms & Conditions
 - The dataset is available for non-commercial research purposes only.
-- All images of the dataset are obtained from the Internet and some papers which are not property of fudanroilab, Fudan University. The DOL is not responsible for the content nor the meaning of these images.
+- All images of the dataset are obtained from the Internet and some papers which are not property of fudanroilab, Fudan University. The fudanroilab is not responsible for the content nor the meaning of these images.
 - You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
-- You agree not to further copy, publish or distribute any portion of the DOL. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
-- The SOL reserves the right to terminate your access to the DOL at any time.
+- You agree not to further copy, publish or distribute any portion of the fudanroilab. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+- The SOL reserves the right to terminate your access to the fudanroilab at any time.
 
 ## How to get the Password
 
 This dataset is publicly available. It is free for professors and researcher scientists affiliated to a University.
 1. Baidu Drive:
-* (FERV39k) Download Link(链接): 链接：https://pan.baidu.com/s/1TYu41txbDUt-WJzwWc7EPQ  Extract Code(提取码)： wang
+* (FERV39k) Download Link(链接): 链接：https://pan.baidu.com/s/1TYu41txbDUt-WJzwWc7EPQ  
+* Extract Code(提取码)： wang
 2. Google Drive:
 * Download Link (FERV39k) : https://drive.google.com/drive/folders/1Syx08oLhjgfQon5pmKT0DKct_7T2F6hq?usp=sharing 
  
 Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed:
 Send an e-mail to Yan Wang (yanwang19@fudan.edu.cn) or Yixuan Sun (21210860014@m.fudan.edu.cn) before downloading the database. You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
 ```
-1. Subject: (fudanroilab) Application to download the DOL Dataset          
+1. Subject: (fudanroilab) Application to download the FERV39k Dataset          
 2. Name: <your first and last name>
 3. Affiliation: <University where you work>
 4. Department: <your department>
