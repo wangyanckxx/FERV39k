@@ -11,9 +11,9 @@
  [Wei Zhang](https://faculty.fudan.edu.cn/zhangwei1234/zh_CN/jsxx/161831/jsxx/jsxx.htm) <sup>2</sup> <br>,
  [Weifeng Ge](http://www.weifengge.net/) <sup>2</sup>,
  [Wenqiang Zhang](http://faet.fudan.edu.cn/17/bb/c13532a137147/page.htm) <sup>1, 2</sup>
- &emsp;
- <sup>1</sup> Academy for Engineering & Technology, Fudan University
- <sup>2</sup> School of Computer Science, Fudan University <br>
+
+###<sup>1</sup> Academy for Engineering & Technology, Fudan University
+###<sup>2</sup> School of Computer Science, Fudan University <br>
 
 ![总体介绍](./image/总体介绍.png)
 
