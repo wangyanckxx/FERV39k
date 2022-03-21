@@ -26,12 +26,13 @@
 
   ```
   Letter to researchers:
-      Since the arxiv version of our CVPR paper available, we are glad to recive several 
+      Since the arxiv version of our CVPR paper is available, we are glad to receive several 
   application emails of FERV39K. However, our work especially the dataset is still 
-  under check of the conference and the formal version of paper is not published. As a 
-  result, the dataset will not be available until the main conference of CVPR2022. 
-  During this time, we will gradually public the project web pages, baseline projects 
-  and the shortcut of FERV39K.
+  under the check of the CVPR conference and the formal version of paper is not published. As a 
+  result, the dataset will not be available until the main conference of CVPR2022 is held. 
+  During this time, we will gradually make the project webpage, 
+  the baseline project and the FERV39K shortcut publicly available.
+  
   																																			                   
                                                                            Group FERV39K
   ```
