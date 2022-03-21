@@ -1,4 +1,4 @@
-# FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos
+# FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos (Not open yet)
 
 ### [Project Page](https://wangyanckxx.github.io/Proj_CVPR2022_FERV39k.html) | [Videos](#) | [Paper](https://arxiv.org/abs/2203.09463)
 
@@ -21,6 +21,17 @@
 ## News!
 
 - 03/2022: The Paper [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://arxiv.org/abs/2203.09463) is accepted by CVPR 2022.
+
+- 03/2022: notice!
+
+  ```
+  Letter to researchers:
+  	Since the arxiv version of our CVPR paper available, we are glad to recive several application emails of FERV39K. However, our work especially the dataset is still under check of the conference and the formal conference paper is not published. As a result, the dataset will not be available until the main conference of CVPR2022. During this time, we will gradually public the project web pages, baseline projects and the shortcut of FERV39K.
+  																																			                   
+                                                                                           Group FERV39K
+  ```
+
+  
 
 <!-- ## Model Zoo
 
@@ -51,21 +62,22 @@
  -->
 
 ## Terms & Conditions
+- I have known that the dataset will not available until the main conference of CVPR2022
 - The dataset is available for non-commercial research purposes only.
 - All images of the dataset are obtained from the Internet and some papers which are not property of fudanroilab, Fudan University. The fudanroilab is not responsible for the content nor the meaning of these images.
 - You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 - You agree not to further copy, publish or distribute any portion of the fudanroilab. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 - The SOL reserves the right to terminate your access to the fudanroilab at any time.
 
-## How to get the Password (**<u>Dataset applications will open soon after CVPR2022</u>**)
+## How to get the Password (**<u>Dataset applications will be available after main conference of CVPR2022</u>**)
 
 This dataset is publicly available. It is free for professors and researcher scientists affiliated to a University.
 1. Baidu Drive:
 * (FERV39k) Download Link(链接): https://pan.baidu.com/s/1TYu41txbDUt-WJzwWc7EPQ  
-* Extract Code(提取码)： xxxx
+* Extract Code(提取码)： xxxx **(available after main conference of CVPR2022)**
 2. Google Drive:
-* Download Link (FERV39k) : ************** 
- 
+* Download Link (FERV39k) : **************  **(available after main conference of CVPR2022)**
+
 Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed:
 Send an e-mail to Yan Wang (yanwang19@fudan.edu.cn) or Yixuan Sun (21210860014@m.fudan.edu.cn) before downloading the database. You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
 ```
@@ -76,7 +88,7 @@ Send an e-mail to Yan Wang (yanwang19@fudan.edu.cn) or Yixuan Sun (21210860014@m
 5. Position: <your job title>
 6. Email: <must be the email at the above mentioned institution>
 
-I have read and agree to the terms and conditions specified in the RAF face database webpage. 
+I have read and agree to the terms and conditions specified in the FERV39K database webpage. 
 This database will only be used for research purposes. 
 I will not make any part of this database available to a third party. 
 I'll not sell any part of this database or make any profit from its use.
