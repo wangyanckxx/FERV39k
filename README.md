@@ -57,7 +57,7 @@
 - You agree not to further copy, publish or distribute any portion of the fudanroilab. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 - The SOL reserves the right to terminate your access to the fudanroilab at any time.
 
-## How to get the Password
+## How to get the Password (**<u>Dataset applications will open after the conference</u>**)
 
 This dataset is publicly available. It is free for professors and researcher scientists affiliated to a University.
 1. Baidu Drive:
