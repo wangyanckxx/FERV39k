@@ -32,9 +32,8 @@
   result, the dataset will not be available until the main conference of CVPR2022 is held. 
   During this time, we will gradually make the project webpage, 
   the baseline project and the FERV39K shortcut publicly available.
-  
-  																																			                   
-                                                                           Group FERV39K
+    																																			                   
+                                                Group FERV39K
   ```
 
   
