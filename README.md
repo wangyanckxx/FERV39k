@@ -33,7 +33,10 @@
   During this time, we will gradually make the project webpage, 
   the baseline project and the FERV39K shortcut publicly available.
     																																			                   
-                                                Group FERV39K
+                                                
+    With kind regards,
+    Group FERV39K
+    
   ```
 
   
