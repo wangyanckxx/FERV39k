@@ -28,7 +28,9 @@
   Letter to researchers:
       
       Thank you for your attention in the FERV39k dataset.
-      We apology for delaying the release of FERV39k dataset, again. Due to the continued impact of the COVID-19 epidemic, we must stay in the dormitory or home, and also try my best to address this problem which some important data are left in the lab. After our efforts, the FERV39K data has been uploaded to Baidu Drive and is now available for download, however, data from Google Drive will be available soon due to the upload capacity limit.
+      We apology for delaying the release of FERV39k dataset, again. 
+      Due to the continued impact of the COVID-19 epidemic, we must stay in the dormitory or home, and also try my best to address this problem which some important data are left in the lab. 
+      After our efforts, the FERV39K data has been uploaded to Baidu Drive and is now available for download, however, data from Google Drive will be available soon due to the upload capacity limit.
       We very much feel your need for the FERV39k dataset from Google Drive and hope to release it as soon as possible to help the development of dynamic FER.
     					                   
                                                 
@@ -43,12 +45,13 @@
   result, the dataset will not be available until the main conference of CVPR2022 is held. 
   During this time, we will gradually make the project webpage, 
   the baseline project and the FERV39K shortcut publicly available.-->
-  
+
   
 
 ## Model Zoo
 
 <center>
+
 
 | Model          | Backbone | Pre-trained | Fine-tuned | WAR/UAR     | Trained-model                           | Val-Results                       | # of Parameters |
 | -------------- | -------- | ----------- | ---------- | ----------- | --------------------------------------- | --------------------------------- | --------------- |
@@ -72,10 +75,10 @@
 | RS18-LSTM      | ResNet18 | DFEW        | FERV39k    | 41.XX/29.XX | [FERV39k-train-R18-LSTM-DFEW](#)        | [FERV39k-val-LSTM-DFEW](#)        | 132M            |
 | RS50-LSTM      | ResNet50 | MS-Celeb-1M | FERV39k    | 46.XX/34.XX | [FERV39k-train-R50-LSTM-MS-Celeb-1M](#) | [FERV39k-val-LSTM-MS-Celeb-1M](#) | 57M             |
 | RS50-LSTM      | ResNet50 | DFEW        | FERV39k    | 41.XX/29.XX | [FERV39k-train-R50-LSTM-DFEW](#)        | [FERV39k-val-LSTM-DFEW](#)        | 57M             |
-|             |          |             |            |             |                                         |                                   |                 |
 
 ## Terms & Conditions
-- I have known that the dataset will not available until the main conference of CVPR2022
+
+- <!--I have known that the dataset will not available until the main conference of CVPR2022-->
 - The dataset is available for non-commercial research purposes only.
 - All images of the dataset are obtained from the Internet and some papers which are not property of fudanroilab, Fudan University. The fudanroilab is not responsible for the content nor the meaning of these images.
 - You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
@@ -85,11 +88,15 @@
 ## How to get the Password (**<u>Dataset applications can be available</u>**)
 
 This dataset is publicly available. It is free for professors and researcher scientists affiliated to a University.
+
 1. Baidu Drive:
+
 * (FERV39k) Download Link(链接): https://pan.baidu.com/s/1TYu41txbDUt-WJzwWc7EPQ  
-* Extract Code(提取码)： xxxx **(available after we receive the email of application to download the FERV39k Dataset**
+* Extract Code(提取码)： xxxx **(Available after we receive the email of application to download the FERV39k Dataset**
+
 2. Google Drive:
-* Download Link (FERV39k) : **************  **(Can be available soon due to the )**
+
+* Download Link (FERV39k) : **************  **(Can be available soon due to the upload capacity limit)**
 
 Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed:
 Send an e-mail to Yan Wang (yanwang19@fudan.edu.cn) or Yixuan Sun (21210860014@m.fudan.edu.cn) before downloading the database. You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
