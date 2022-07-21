@@ -43,13 +43,12 @@
   result, the dataset will not be available until the main conference of CVPR2022 is held. 
   During this time, we will gradually make the project webpage, 
   the baseline project and the FERV39K shortcut publicly available.-->
-
+  
   
 
 <!-- ## Model Zoo
 
 <center>
-
 
 | Model          | Backbone | Pre-trained | Fine-tuned | WAR/UAR     | Trained-model                           | Val-Results                       | # of Parameters |
 | -------------- | -------- | ----------- | ---------- | ----------- | --------------------------------------- | --------------------------------- | --------------- |
@@ -76,7 +75,6 @@
 | -->            |          |             |            |             |                                         |                                   |                 |
 
 ## Terms & Conditions
-
 - I have known that the dataset will not available until the main conference of CVPR2022
 - The dataset is available for non-commercial research purposes only.
 - All images of the dataset are obtained from the Internet and some papers which are not property of fudanroilab, Fudan University. The fudanroilab is not responsible for the content nor the meaning of these images.
@@ -87,14 +85,10 @@
 ## How to get the Password (**<u>Dataset applications can be available</u>**)
 
 This dataset is publicly available. It is free for professors and researcher scientists affiliated to a University.
-
 1. Baidu Drive:
-
 * (FERV39k) Download Link(链接): https://pan.baidu.com/s/1TYu41txbDUt-WJzwWc7EPQ  
 * Extract Code(提取码)： xxxx **(available after we receive the email of application to download the FERV39k Dataset**
-
 2. Google Drive:
-
 * Download Link (FERV39k) : **************  **(Can be available soon due to the )**
 
 Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed:
