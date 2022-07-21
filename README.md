@@ -46,7 +46,7 @@
   
   
 
-<!-- ## Model Zoo
+## Model Zoo
 
 <center>
 
@@ -72,7 +72,7 @@
 | RS18-LSTM      | ResNet18 | DFEW        | FERV39k    | 41.XX/29.XX | [FERV39k-train-R18-LSTM-DFEW](#)        | [FERV39k-val-LSTM-DFEW](#)        | 132M            |
 | RS50-LSTM      | ResNet50 | MS-Celeb-1M | FERV39k    | 46.XX/34.XX | [FERV39k-train-R50-LSTM-MS-Celeb-1M](#) | [FERV39k-val-LSTM-MS-Celeb-1M](#) | 57M             |
 | RS50-LSTM      | ResNet50 | DFEW        | FERV39k    | 41.XX/29.XX | [FERV39k-train-R50-LSTM-DFEW](#)        | [FERV39k-val-LSTM-DFEW](#)        | 57M             |
-| -->            |          |             |            |             |                                         |                                   |                 |
+|             |          |             |            |             |                                         |                                   |                 |
 
 ## Terms & Conditions
 - I have known that the dataset will not available until the main conference of CVPR2022
