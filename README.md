@@ -92,10 +92,10 @@
 
 This dataset is publicly available. It is free for professors and researcher scientists affiliated to a University.
 
-1. Baidu Drive:
+1. Baidu Drive: **(Available after we receive the email of application to download the FERV39k Dataset**
 
-* (FERV39k) Download Link(链接): 链接：https://pan.baidu.com/s/16DNjAuaYNKxkYz3jvsfuLA 
-* Extract Code(提取码)： **xxxx** **(Available after we receive the email of application to download the FERV39k Dataset**
+* (FERV39k) Download Link (链接): **xxxx (Expiration date is 30 days)**   
+* Extract Code(提取码)： **xxxx** 
 
 2. Google Drive:
 
