@@ -22,18 +22,14 @@
 
 - 03/2022: The Paper [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://arxiv.org/abs/2203.09463) is accepted by CVPR 2022.
 
-- 07/2022: Notice!
+- 08/2022: Notice!
 
   ```
   Letter to researchers:
       
       Thank you for your attention in the FERV39k dataset.
-      We apology for delaying the release of FERV39k dataset, again. 
-      Due to the continued impact of the COVID-19 epidemic, we must stay in the dormitory or home, and also try my best to address this problem which some important data are left in the lab. 
-      After our efforts, the FERV39K data has been uploaded to Baidu Drive and is now available for download, however, data from Google Drive will be available soon due to the upload capacity limit.
-      We very much feel your need for the FERV39k dataset from Google Drive and hope to release it as soon as possible to help the development of dynamic FER.
-    					                   
-                                                
+      We have released the FERV39k dataset. 
+    
     With kind regards,
     Group FERV39K
     
