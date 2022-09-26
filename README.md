@@ -21,7 +21,6 @@
 ## News!
 
 
-
 - 08/2022: Notice!
 
   ```
@@ -35,7 +34,7 @@
     
   ```
   
-  - 03/2022: The Paper [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://arxiv.org/abs/2203.09463) is accepted by CVPR 2022.
+- 03/2022: The Paper [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://arxiv.org/abs/2203.09463) is accepted by CVPR 2022.
 
   <!--  Since the arxiv version of our CVPR paper is available, we are glad to receive several 
   application emails of FERV39K. However, our work especially the dataset is still 
